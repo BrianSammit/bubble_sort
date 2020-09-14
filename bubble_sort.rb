@@ -30,7 +30,7 @@ def bubble_sort_by(unsorted_array)
   i = 1
   dummy_flag = true
 
-  while dummy_flag 
+  while dummy_flag
 
     dummy_flag = false
     while i < n
