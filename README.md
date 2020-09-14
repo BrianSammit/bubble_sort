@@ -1,6 +1,6 @@
-# bubble_sort
+# BUBBLE SORT
 
-This project is the bubble sort algorithm made it in Ruby.
+This project is the bubble sort algorithm made it in Ruby. The bubble sort use a sorting technique that is typically used for sequencing small lists. It starts by comparing the first item to the second, the second to the third and so on until it finds one item out of order. It then swaps the two items and starts over.
 
 ## Built With :
  - Ruby
@@ -26,9 +26,6 @@ Feel free to check the issues page.
 
 ## Show your support ⭐️
 Give a ⭐️ if you like this project!  
-
-## Acknowledgments
-Hat tip to anyone whose code was used Inspiration etc 
 
 ## 📝 License 
 
