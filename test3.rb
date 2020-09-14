@@ -1,6 +1,3 @@
-
-
-
 def bubble_sort(unsorted_array) 
     n = unsorted_array.length     # 4 
     i = 1   #3
