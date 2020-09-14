@@ -5,6 +5,10 @@ This project is the bubble sort algorithm made it in Ruby. The bubble sort use a
 ## Built With :
  - Ruby
  - GitHub
+ 
+## Issue page link 
+
+[Issue link](https://github.com/BrianSammit/bubble_sort/issues)
 
 ## Authors  
 
